@@ -8,4 +8,4 @@ Features
 - input & output {eg:- print(), input()}
 - simple standard library 
 - arithmetic calculation
-- string
+- string manipulation
