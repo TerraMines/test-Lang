@@ -1,3 +1,5 @@
 Features
 - functions
 - variables
+- data types
+- data Structure {eg:- struct, union, enum}
