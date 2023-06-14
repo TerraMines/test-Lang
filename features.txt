@@ -2,4 +2,10 @@ Features
 - functions
 - variables
 - data types
-- data Structure {eg:- struct, union, enum}
+- data Structure {eg:- struct, union, enum} / classes / none
+- if...else...else if
+- loops
+- input & output {eg:- print(), input()}
+- simple standard library 
+- arithmetic calculation
+- string
