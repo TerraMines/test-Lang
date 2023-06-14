@@ -9,3 +9,4 @@ Features
 - simple standard library 
 - arithmetic calculation
 - string manipulation
+- Comments {eg:- // this is a comment}
